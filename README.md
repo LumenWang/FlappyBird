@@ -1,1 +1,1 @@
-#请使用chrome浏览器
+## 使用JavaScript实现简单的FlappyBird
